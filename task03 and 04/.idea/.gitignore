@@ -1,0 +1,8 @@
+# Default ignored files
+/../../JDBC s.p./.idea/shelf/
+/../../JDBC s.p./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../JDBC s.p./.idea/httpRequests/
+# Datasource local storage ignored files
+/../../JDBC s.p./.idea/dataSources/
+/../../JDBC s.p./.idea/dataSources.local.xml
